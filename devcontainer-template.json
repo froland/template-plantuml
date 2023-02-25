@@ -1,8 +1,0 @@
-{
-  "id": "plantuml",
-  "version": "0.0.1",
-  "name": "PlantUML",
-  "description": "Develop and render UML templates.",
-  "documentationURL": "https://github.com/froland/template-plantuml/blob/main/README.md",
-  "publisher": "François ROLAND"
-}
