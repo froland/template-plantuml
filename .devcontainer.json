@@ -1,12 +1,4 @@
 {
   "name": "plantuml",
-  "image": "froland/devcontainer-plantuml:latest",
-	"customizations": {
-		"vscode": {
-			"settings": {
-        "plantuml.server": "http://localhost:8080",
-        "plantuml.render": "PlantUMLServer"
-			},
-		}
-	}
+  "image": "froland/devcontainer-plantuml:latest"
 }
