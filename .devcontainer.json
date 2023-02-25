@@ -1,0 +1,4 @@
+{
+  "name": "plantuml",
+  "image": "froland/devcontainer-plantuml:latest",
+}
